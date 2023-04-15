@@ -1,0 +1,16 @@
+.blackbut
+{
+    background-color: black;
+    color: white;
+}
+
+.yellowbut
+{
+    background-color: yellow;
+}
+
+.blackbut, .yellowbut
+{
+    font-family:  Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
