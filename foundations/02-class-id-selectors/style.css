@@ -1,17 +1,17 @@
-.class1, .class2
+.class1, .class2, .cooler
 {
     background-color: pink;
-    font-size: 24px;
 }
 
 .adjustsize
 {
-    font-size: 36px;
+    font-size: 24px;
 }
 
 #first
 {
     color:blue;
+    font-size: 36px;
 }
 
 .cooler
