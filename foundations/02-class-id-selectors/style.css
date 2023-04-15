@@ -1,0 +1,26 @@
+.class1, .class2
+{
+    background-color: pink;
+    font-size: 24px;
+}
+
+.adjustsize
+{
+    font-size: 36px;
+}
+
+#first
+{
+    color:blue;
+}
+
+.cooler
+{
+    background-color: pink;
+}
+
+#second
+{
+    background-color: green;
+    font-weight: bold;
+}
